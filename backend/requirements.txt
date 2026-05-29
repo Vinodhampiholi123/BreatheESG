@@ -1,0 +1,4 @@
+Django>=5.0.0,<6.1.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.0.0
+gunicorn>=21.2.0
