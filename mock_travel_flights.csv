@@ -1,0 +1,5 @@
+Employee ID,Travel Category,Origin,Destination,Distance (km),Class,Cost,Currency
+EMP-5501,Flight,SFO,JFK,4150,Economy,450,USD
+EMP-7712,Flight,LHR,JFK,0,Business,2400,USD
+EMP-8839,Flight,JFK,XYZ,0,Economy,550,USD
+EMP-9921,Ground Train,LHR,CDG,350,Standard,120,EUR

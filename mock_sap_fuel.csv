@@ -1,0 +1,7 @@
+Materialbeleg,Buchungsdatum,Material,Menge,Einheit,Werk,Betrag,Waers
+MB-2026-001,2026.04.15,Diesel Fuel,1200,L,1001,1500,EUR
+MB-2026-002,2026.04.18,Heizöl,550,GLL,1002,2200,EUR
+MB-2026-003,2026.04.22,Erdgas / Natural Gas,450,KG,1001,650,EUR
+MB-2026-004,2026.04.25,Unknown Lubricant Oil,100,L,1001,450,EUR
+MB-2026-005,2026.04.28,Diesel Fuel,-50,L,1001,-75,EUR
+MB-2026-006,2026.04.30,Diesel Fuel,800,L,9999,1000,EUR
